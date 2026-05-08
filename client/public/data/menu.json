@@ -1,0 +1,154 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": { "tr": "Espresso", "en": "Espresso" },
+      "description": { "tr": "Yoğun ve kremsi İtalyan kahvesi", "en": "Intense and creamy Italian coffee" },
+      "price": "45₺",
+      "image": "/images/espresso.jpg",
+      "category": "coffees"
+    },
+    {
+      "id": 2,
+      "name": { "tr": "Latte", "en": "Latte" },
+      "description": { "tr": "Sütlü kahve sanatı ile", "en": "Milky coffee with latte art" },
+      "price": "55₺",
+      "image": "/images/latte.jpg",
+      "category": "coffees"
+    },
+    {
+      "id": 3,
+      "name": { "tr": "Cappuccino", "en": "Cappuccino" },
+      "description": { "tr": "Köpüklü süt ve kakao tozlu", "en": "With foamy milk and cocoa powder" },
+      "price": "50₺",
+      "image": "/images/cappuccino.jpg",
+      "category": "coffees"
+    },
+    {
+      "id": 4,
+      "name": { "tr": "Americano", "en": "Americano" },
+      "description": { "tr": "Sulandırılmış espresso", "en": "Diluted espresso" },
+      "price": "40₺",
+      "image": "/images/espresso.jpg",
+      "category": "coffees"
+    },
+    {
+      "id": 5,
+      "name": { "tr": "Mocha", "en": "Mocha" },
+      "description": { "tr": "Çikolatalı latte", "en": "Chocolate latte" },
+      "price": "60₺",
+      "image": "/images/latte.jpg",
+      "category": "coffees"
+    },
+    {
+      "id": 6,
+      "name": { "tr": "Flat White", "en": "Flat White" },
+      "description": { "tr": "Mikro köpüklü süt ve espresso", "en": "Microfoam milk and espresso" },
+      "price": "55₺",
+      "image": "/images/cappuccino.jpg",
+      "category": "coffees"
+    }
+  ],
+  "desserts": [
+    {
+      "id": 7,
+      "name": { "tr": "Tiramisu", "en": "Tiramisu" },
+      "description": { "tr": "Kahve emdirilmiş İtalyan tatlısı", "en": "Coffee-soaked Italian dessert" },
+      "price": "75₺",
+      "image": "/images/tiramisu.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 8,
+      "name": { "tr": "Cheesecake", "en": "Cheesecake" },
+      "description": { "tr": "Kremalı peynir tatlısı", "en": "Creamy cheese dessert" },
+      "price": "70₺",
+      "image": "/images/tiramisu.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 9,
+      "name": { "tr": "Brownie", "en": "Brownie" },
+      "description": { "tr": "Çikolatalı kek", "en": "Chocolate cake" },
+      "price": "55₺",
+      "image": "/images/tiramisu.jpg",
+      "category": "desserts"
+    },
+    {
+      "id": 10,
+      "name": { "tr": "Kurabiye", "en": "Cookie" },
+      "description": { "tr": "Ev yapımı kurabiye", "en": "Homemade cookie" },
+      "price": "35₺",
+      "image": "/images/tiramisu.jpg",
+      "category": "desserts"
+    }
+  ],
+  "drinks": [
+    {
+      "id": 11,
+      "name": { "tr": "Limonata", "en": "Lemonade" },
+      "description": { "tr": "Taze sıkılmış limon suyu", "en": "Freshly squeezed lemon juice" },
+      "price": "35₺",
+      "image": "/images/latte.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 12,
+      "name": { "tr": "Portakal Suyu", "en": "Orange Juice" },
+      "description": { "tr": "Taze sıkılmış portakal suyu", "en": "Freshly squeezed orange juice" },
+      "price": "40₺",
+      "image": "/images/latte.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 13,
+      "name": { "tr": "Smoothie", "en": "Smoothie" },
+      "description": { "tr": "Mevsim meyveli smoothie", "en": "Seasonal fruit smoothie" },
+      "price": "50₺",
+      "image": "/images/latte.jpg",
+      "category": "drinks"
+    },
+    {
+      "id": 14,
+      "name": { "tr": "Soğuk Çay", "en": "Iced Tea" },
+      "description": { "tr": "Buzlu limonlu çay", "en": "Iced lemon tea" },
+      "price": "30₺",
+      "image": "/images/latte.jpg",
+      "category": "drinks"
+    }
+  ],
+  "sandwiches": [
+    {
+      "id": 15,
+      "name": { "tr": "Klasik Sandviç", "en": "Classic Sandwich" },
+      "description": { "tr": "Sucuk, kaşar, domates", "en": "Sausage, cheese, tomato" },
+      "price": "65₺",
+      "image": "/images/espresso.jpg",
+      "category": "sandwiches"
+    },
+    {
+      "id": 16,
+      "name": { "tr": "Vejetaryen Sandviç", "en": "Vegetarian Sandwich" },
+      "description": { "tr": "Sebzeli ve peynirli", "en": "With vegetables and cheese" },
+      "price": "60₺",
+      "image": "/images/espresso.jpg",
+      "category": "sandwiches"
+    },
+    {
+      "id": 17,
+      "name": { "tr": "Tavuklu Sandviç", "en": "Chicken Sandwich" },
+      "description": { "tr": "Izgara tavuk göğsü", "en": "Grilled chicken breast" },
+      "price": "70₺",
+      "image": "/images/espresso.jpg",
+      "category": "sandwiches"
+    },
+    {
+      "id": 18,
+      "name": { "tr": "Ton Balıklı Sandviç", "en": "Tuna Sandwich" },
+      "description": { "tr": "Ton balığı ve marul", "en": "Tuna and lettuce" },
+      "price": "75₺",
+      "image": "/images/espresso.jpg",
+      "category": "sandwiches"
+    }
+  ]
+}
